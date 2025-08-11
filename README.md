@@ -8,7 +8,6 @@
 - **프로젝트 기간**: 2020.04 ~ 2020.06  
 - **사용 기술**: Python, Keras, HTML, Crawling  
 - **개발 환경**: Jupyter Notebook  
-- **GitHub URL**: [🔗 Repository Link](https://github.com/AgLine/sensitivity-analysis-)
 
 ---
 
@@ -31,13 +30,6 @@
 ### 4. 워드클라우드
 - 리뷰 데이터 전용 **불용어 사전** 구축
 - 가중치를 부여하여 많이 언급된 단어의 가시성 강화
-
----
-
-## 📊 결과 예시
-- LSTM 학습 및 검증 결과  
-- 감성 분석 시각화 그래프  
-- 리뷰 키워드 워드클라우드
 
 ---
 
@@ -81,8 +73,11 @@ flowchart TD
 ---
 
 ## 📈 학습 결과
-![Training Graph](./images/training_graph.png)
+
 - **train_loss** / **val_loss** 변화
 - **train_acc** / **val_acc** 변화
 
 ---
+## 📊 시각화 결과
+<img width="656" height="817" alt="portfolio-details-3-1" src="https://github.com/user-attachments/assets/5c635370-fe81-4c85-91bb-22491e1ce125" />
+
